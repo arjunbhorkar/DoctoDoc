@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245253808780",
+    "firebase_url": "https://healthplusplus.firebaseio.com",
+    "project_id": "healthplusplus",
+    "storage_bucket": "healthplusplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245253808780:android:a126a8818f5e1c88ac51a9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245253808780-4cjcuk6n6kreqiojugv4rforlrdhcffc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPwinaiCBdXykk6LeQ2jp7OryJVQmyuLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245253808780-4cjcuk6n6kreqiojugv4rforlrdhcffc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
